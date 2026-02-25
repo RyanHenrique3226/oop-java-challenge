@@ -17,6 +17,8 @@ public class Main {
         curso2.setDescricao("descrição curso Python");
         curso2.setCargaHoraria(6);
 
+
+
         Mentoria mentoria = new Mentoria();
         mentoria.setTitulo("Mentoria de Java");
         mentoria.setDescricao("Descrição mentoria Java");
